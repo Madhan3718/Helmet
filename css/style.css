@@ -24,7 +24,7 @@ h3{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 80px;
-    margin-left: 40%;
+  
 }
 p{
 	margin:0;
@@ -39,7 +39,7 @@ body a:hover,body a:focus{
 }
 /*-- banner --*/
 .banner {
-    background:url(../images/OIGG.jpeg)no-repeat center 0px;
+    background:url(../images/hel\ bg.jpg)no-repeat center 0px;
     background-size:cover;
 	position: relative;	 
 } 
@@ -332,7 +332,7 @@ p {
 /*-- //welcome --*/
 /*-- slid --*/
 .slid {
-    background: url(../images/OIGG.jpeg)no-repeat center;
+    background: url(../images/hel\ bg.jpg)no-repeat center;
     background-size: cover;
     min-height: 458px;
 	position:relative;
@@ -545,7 +545,7 @@ h3.agileits-title.w3title2 {
 /*-- //news --*/
 /*-- specifications --*/ 
 .spec {
-    background:url(../images/OIGG.jpeg)no-repeat center;
+    background:url(../images/hel\ bg.jpg)no-repeat center;
     background-size: cover !important; 
 }
 .spec h3.agileits-title.w3title2 {
