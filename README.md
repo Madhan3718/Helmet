@@ -1,7 +1,7 @@
 # HELMET
 ## Future Ready Talent Virtual Internship Project
 - Project Link:https: https://proud-plant-0b56dff00.3.azurestaticapps.net/
-- Demo Video Link:https:  
+- Demo Video Link:https://youtu.be/_h6gDPdgYyQ 
 
 ## Problem Statement/Opportunity:
  A helmet selling store wants to build a sample Front End prototype website for their business as the online shopping industry has been growing at an incredible rate, and so have ecommerce challenges .Through this website the user can see Stylish, Colourful and Safety helmets and all services from Online and have all preknowledge before buying and can buy at the store.To build a whole website I have chosen Azure Cloud Platform. Built website that  have: Home, About, Services, Specifications,Gallery,Contact us along with Azure Bot Services deployed on Website for customers help.
